@@ -102,7 +102,7 @@ nav ul {
   min-height: 90vh;
 
   background-image: linear-gradient(rgba(0, 0, 0, 0.74), transparent),
-    url(/img/landing-page.jpg); /*rgba allows opacity */
+    url(img/landing-page.jpg); /*rgba allows opacity */
 
   background-repeat: no-repeat;
   background-size: cover;
